@@ -1,0 +1,9 @@
+[Core]
+Name = demo_plugin
+Module = demo_plugin
+
+[Documentation]
+Author = Max Hill
+Version = 0.1
+Website = https://rogue26.github.io
+Description = Demonstration plugin for the DataFlask framework. Based on based on the Bokeh example at https://github.com/bokeh/bokeh/blob/master/examples/app/sliders.py

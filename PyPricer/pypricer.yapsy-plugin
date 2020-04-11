@@ -1,0 +1,9 @@
+[Core]
+Name = PyPricer
+Module = pypricer
+
+[Documentation]
+Author = Max Hill
+Version = 0.1
+Website = https://rogue26.github.io
+Description = CPQ and pricing analytics tool
